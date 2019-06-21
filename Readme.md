@@ -5,6 +5,9 @@
 * [MainPage.xaml.cs](./CS/SilverlightApplication1/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication1/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to customize scheduler views
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3509)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to customize Scheduler views and switch between them.</p>
